@@ -1,2 +1,7 @@
-# predict_weather
+# 学習内容
+気象データを解析
+明日の気温予測
  
+ # データ参照
+ ## 東京都の2006/01/01〜2016/12/31の日別平均気温
+https://www.jma.go.jp/jma/index.html
