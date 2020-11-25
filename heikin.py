@@ -17,4 +17,3 @@ avs = {}
 for key in md:
   v = avs[key] = sum(md[key]) / len(md[key])
   print("{0} : {1}".format(key, v))
-
