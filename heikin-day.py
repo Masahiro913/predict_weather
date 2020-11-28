@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# pandasのカラムの箇所でおそらくエンコードエラーが出てしまっているが原因は不明。カラムは合っている
 import pandas as pd
 
 #pandasでcsvファイルを読み込む
