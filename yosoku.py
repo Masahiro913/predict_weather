@@ -39,4 +39,4 @@ plt.figure(figsize=(10,6), dpi = 100)
 plt.plot(test_y, c='r')
 plt.plot(pre_y, c='b')
 plt.savefig('tenki-kion-lr.png')
-plt.show
+plt.show()
